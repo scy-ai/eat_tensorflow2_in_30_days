@@ -19,9 +19,7 @@ Click here for [Chinese Version（中文版）](#30天吃掉那只-tensorflow2)
 
 **极速通道** 
 *  🚀 公众号 “**算法美食屋**” 后台回复暗号："**吃货来了**"
-*  😋 获取以上3套教程的jupyter notebook 源码文件以及全部数据集的百度云盘下载链接。
-
-![image.png](./data/算法美食屋二维码.jpg)
+*  😋 获取以上3套教程的jupyter notebook 源码文件以及全部数据集的百度云盘
 
 
 <!-- #endregion -->
@@ -227,6 +225,12 @@ Please leave comments in the WeChat official account "算法美食屋" (Machine 
 🚀 github项目地址：https://github.com/lyhue1991/eat_tensorflow2_in_30_days
 
 🐳 kesci专栏地址：https://www.kesci.com/home/column/5d8ef3c3037db3002d3aa3a0
+
+**极速通道** 
+*  🚀 公众号 “**算法美食屋**” 后台回复暗号："**吃货来了**"
+*  😋 获取教程的jupyter notebook 源码文件以及全部数据集的百度云盘下载链接。
+*  https://mp.weixin.qq.com/s/ymLtH5BqlWAkpOmCLQOYxw
+
 
 
 ### 一，TensorFlow2 🍎 or Pytorch🔥
